@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetD2_K New Net Name=!STNDBY
+Change Net Name : Old Net Name=NetD3_K New Net Name=!CHRG
+Change Net Name : Old Net Name=NetF1_1 New Net Name=Ferrite_Fuse
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=Batt+
+Change Net Name : Old Net Name=NetJ3_A5 New Net Name=CC1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=PROG

@@ -1,0 +1,102 @@
+Added Component: Designator=U1(AQFN50P700X700X85_HS-74N)
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Author"; Value = "hany"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Class"; Value = "nRF_Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "AQFN-73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2021-03-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "nRF52840-QIAAF0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "nRF52840-QIAAF0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number Norautron"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "102000222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2021-03-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "nRF52840-QIAAF0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "nRF52840-QIAA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=GPIO_SD1 Pin=U1-A8
+Added Pin To Net: NetName=GPIO_SD3 Pin=U1-A10
+Added Pin To Net: NetName=GPIO_SD5 Pin=U1-A12
+Added Pin To Net: NetName=GPIO_SD7 Pin=U1-A14
+Added Pin To Net: NetName=GPIO_SD9 Pin=U1-A16
+Added Pin To Net: NetName=MCU_DEC2 Pin=U1-A18
+Added Pin To Net: NetName=GPIO_SD12 Pin=U1-A20
+Added Pin To Net: NetName=VDD_nRF Pin=U1-A22
+Added Pin To Net: NetName=XC1_32MHz Pin=U1-A23
+Added Pin To Net: NetName=SWDCLK Pin=U1-AA24
+Added Pin To Net: NetName=MCU_DCCH Pin=U1-AB2
+Added Pin To Net: NetName=MCU_DECUSB Pin=U1-AC5
+Added Pin To Net: NetName=GPIO11 Pin=U1-AC9
+Added Pin To Net: NetName=GPIO13 Pin=U1-AC11
+Added Pin To Net: NetName=RESET Pin=U1-AC13
+Added Pin To Net: NetName=QSPI/SCK Pin=U1-AC15
+Added Pin To Net: NetName=GPIO16 Pin=U1-AC17
+Added Pin To Net: NetName=GPIO18 Pin=U1-AC19
+Added Pin To Net: NetName=GPIO20 Pin=U1-AC21
+Added Pin To Net: NetName=SWDIO Pin=U1-AC24
+Added Pin To Net: NetName=+5v Pin=U1-AD2
+Added Pin To Net: NetName=D_N Pin=U1-AD4
+Added Pin To Net: NetName=D_P Pin=U1-AD6
+Added Pin To Net: NetName=GPIO10 Pin=U1-AD8
+Added Pin To Net: NetName=GPIO12 Pin=U1-AD10
+Added Pin To Net: NetName=GPIO14 Pin=U1-AD12
+Added Pin To Net: NetName=VDD_nRF Pin=U1-AD14
+Added Pin To Net: NetName=GPIO15 Pin=U1-AD16
+Added Pin To Net: NetName=GPIO17 Pin=U1-AD18
+Added Pin To Net: NetName=GPIO19 Pin=U1-AD20
+Added Pin To Net: NetName=SWO Pin=U1-AD22
+Added Pin To Net: NetName=VDD_nRF Pin=U1-AD23
+Added Pin To Net: NetName=VDD_nRF Pin=U1-B1
+Added Pin To Net: NetName=MCU_DCC Pin=U1-B3
+Added Pin To Net: NetName=MCU_DEC6 Pin=U1-B5
+Added Pin To Net: NetName=GND Pin=U1-B7
+Added Pin To Net: NetName=GPIO_SD2 Pin=U1-B9
+Added Pin To Net: NetName=GPIO_SD4 Pin=U1-B11
+Added Pin To Net: NetName=GPIO_SD6 Pin=U1-B13
+Added Pin To Net: NetName=GPIO_SD8 Pin=U1-B15
+Added Pin To Net: NetName=GPIO_SD10 Pin=U1-B17
+Added Pin To Net: NetName=GPIO_SD11 Pin=U1-B19
+Added Pin To Net: NetName=XC2_32MHz Pin=U1-B24
+Added Pin To Net: NetName=MCU_DEC1 Pin=U1-C1
+Added Pin To Net: NetName=XL1_32kHz Pin=U1-D2
+Added Pin To Net: NetName=MCU_DEC3 Pin=U1-D23
+Added Pin To Net: NetName=MCU_DEC6 Pin=U1-E24
+Added Pin To Net: NetName=XL2_32kHz Pin=U1-F2
+Added Pin To Net: NetName=GND Pin=U1-F23
+Added Pin To Net: NetName=GPIO1 Pin=U1-G1
+Added Pin To Net: NetName=GPIO2 Pin=U1-H2
+Added Pin To Net: NetName=MCU_ANT Pin=U1-H23
+Added Pin To Net: NetName=AIN2 Pin=U1-J1
+Added Pin To Net: NetName=NFC2 Pin=U1-J24
+Added Pin To Net: NetName=AIN3 Pin=U1-K2
+Added Pin To Net: NetName=GPIO3 Pin=U1-L1
+Added Pin To Net: NetName=NFC1 Pin=U1-L24
+Added Pin To Net: NetName=GPIO4 Pin=U1-M2
+Added Pin To Net: NetName=GPIO5 Pin=U1-N1
+Added Pin To Net: NetName=MCU_DEC5 Pin=U1-N24
+Added Pin To Net: NetName=GPIO6 Pin=U1-P2
+Added Pin To Net: NetName=GPIO_SD13 Pin=U1-P23
+Added Pin To Net: NetName=GPIO7 Pin=U1-R1
+Added Pin To Net: NetName=GPIO_SD14 Pin=U1-R24
+Added Pin To Net: NetName=GPIO8 Pin=U1-T2
+Added Pin To Net: NetName=GPIO_SD15 Pin=U1-T23
+Added Pin To Net: NetName=GPI09 Pin=U1-U1
+Added Pin To Net: NetName=GPIO_SD16 Pin=U1-U24
+Added Pin To Net: NetName=GPIO_SD17 Pin=U1-V23
+Added Pin To Net: NetName=VDD_nRF Pin=U1-W1
+Added Pin To Net: NetName=GPIO_SD18 Pin=U1-W24
+Added Pin To Net: NetName=VDDH Pin=U1-Y2
+Added Pin To Net: NetName=GPIO_SD19 Pin=U1-Y23
+Added Member To Class: ClassName=Power Member=Component D1 USBLC6-2P6
+Added Member To Class: ClassName=nrf52840 Member=Component U1 nRF52840-QIAA
